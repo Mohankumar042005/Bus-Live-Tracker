@@ -1,0 +1,12 @@
+{
+  "buses": {
+    "bus001": {
+      "from": "koyambedu",
+      "to": "tambaram",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "speed": 0,
+      "status": "active"
+    }
+  }
+}
